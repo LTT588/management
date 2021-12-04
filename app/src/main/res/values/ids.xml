@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="bt_id1" type="id"/>
+    <item name="bt_id2" type="id"/>
+    <item name="bt_id3" type="id"/>
+    <item name="bt_id4" type="id"/>
+    <item name="bt_id5" type="id"/>
+    <item name="bt_id6" type="id"/>
+    <item name="bt_id7" type="id"/>
+    <item name="bt_id8" type="id"/>
+    <item name="bt_id9" type="id"/>
+    <item name="bt_id10" type="id"/>
+    <item name="bt_id11" type="id"/>
+    <item name="bt_id12" type="id"/>
+    <item name="bt_id13" type="id"/>
+    <item name="bt_id14" type="id"/>
+    <item name="bt_id15" type="id"/>
+    <item name="bt_id16" type="id"/>
+    <item name="bt_id17" type="id"/>
+    <item name="bt_id18" type="id"/>
+    <item name="bt_id19" type="id"/>
+    <item name="bt_id20" type="id"/>
+    <item name="bt_id21" type="id"/>
+    <item name="bt_id22" type="id"/>
+    <item name="bt_id23" type="id"/>
+    <item name="bt_id24" type="id"/>
+    <item name="bt_id25" type="id"/>
+
+
+    <item name="tt_id1" type="id"/>
+    <item name="tt_id2" type="id"/>
+    <item name="tt_id3" type="id"/>
+    <item name="tt_id4" type="id"/>
+    <item name="tt_id5" type="id"/>
+    <item name="tt_id6" type="id"/>
+    <item name="tt_id7" type="id"/>
+    <item name="tt_id8" type="id"/>
+    <item name="tt_id9" type="id"/>
+    <item name="tt_id10" type="id"/>
+    <item name="tt_id11" type="id"/>
+    <item name="tt_id12" type="id"/>
+    <item name="tt_id13" type="id"/>
+    <item name="tt_id14" type="id"/>
+    <item name="tt_id15" type="id"/>
+    <item name="tt_id16" type="id"/>
+    <item name="tt_id17" type="id"/>
+    <item name="tt_id18" type="id"/>
+    <item name="tt_id19" type="id"/>
+    <item name="tt_id20" type="id"/>
+    <item name="tt_id21" type="id"/>
+    <item name="tt_id22" type="id"/>
+    <item name="tt_id23" type="id"/>
+    <item name="tt_id24" type="id"/>
+    <item name="tt_id25" type="id"/>
+
+
+
+
+
+</resources>
